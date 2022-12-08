@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @soffanma28
-- 👀 I’m interested in PHP, Javascript, Flutter, Kotlin
-- 🌱 I’m currently learning NodeJS, Golang
+- 👋 Hi, My name is Soffan
+<!-- - 👀 I’m interested in PHP, Javascript, Flutter, Kotlin -->
+<!-- - 🌱 I’m currently learning NodeJS, Golang -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
