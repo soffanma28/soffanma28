@@ -19,7 +19,7 @@
 
 Welcome to my GitHub profile! I'm a software developer with a passion for creating innovative solutions. I love working with various technologies and exploring new domains.
 
-- 🌱 I’m currently learning [VueJS, AI]
+- 🌱 I’m currently learning [Go, VueJS, AI]
 - 💬 Ask me about [Laravel]
 
 ## Projects
